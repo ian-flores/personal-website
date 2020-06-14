@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Photoshop'
+title: 'Google Cloud Platform'
 percentage: 58
 ---

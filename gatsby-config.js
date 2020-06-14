@@ -40,11 +40,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
-        short_name: `starter`,
+        name: `Ian Flores Siaca`,
+        short_name: `Ian`,
         start_url: `/`,
-        background_color: `#ed64a6`,
-        theme_color: `#ed64a6`,
+        background_color: `#079fab`,
+        theme_color: `#079fab`,
         display: `minimal-ui`,
         icon: `src/assets/images/gatsby-icon.png`
       }

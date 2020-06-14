@@ -6,4 +6,4 @@ startDate: 'Jul 2014'
 endDate: 'May 2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I implemented mark-recapture methods to sample bats throughout the metropolitan area of Puerto Rico. As part of this study I also analyzed microscopic samples of bat hair searching for pollen grains to track their eating patterns.

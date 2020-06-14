@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Docker'
+title: 'PostgreSQL'
 percentage: 41
 ---

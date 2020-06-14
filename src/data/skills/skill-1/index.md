@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'HTML'
+title: 'R'
 percentage: 60
 ---

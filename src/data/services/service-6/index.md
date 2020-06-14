@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Python Development'
 icon: 'python'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: "Develop Python packages and web applications following industry's best practices. Experience with data management and visualization of tabular, geo-spatial and image data."
 ---

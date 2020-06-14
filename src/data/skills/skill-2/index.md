@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'CSS'
+title: 'Python'
 percentage: 73
 ---

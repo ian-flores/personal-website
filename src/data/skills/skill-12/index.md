@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Docker'
+title: 'MySQL'
 percentage: 41
 ---

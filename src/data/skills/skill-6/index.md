@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Gatsby'
+title: 'Amazon Web Services'
 percentage: 68
 ---

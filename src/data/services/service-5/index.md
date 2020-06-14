@@ -2,5 +2,5 @@
 category: 'services'
 title: 'R Development'
 icon: 'rproject'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: "Develop R packages and Shiny web applications following industry's best practices. Data management and visualization of tabular, geo-spatial, image, and time series data."
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Docker'
+title: 'Git'
 percentage: 41
 ---

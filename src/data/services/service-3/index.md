@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Statistical Analysis'
 icon: 'brain'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Perform statistical inference to understand a business or scientific question. Collaborated with partners to understand their data with the goal of finding insights and comprehend relationships between variables.'
 ---
