@@ -1,9 +1,9 @@
 ---
 category: 'education'
 university: 'University of Puerto Rico'
-degree: 'Bachelor in Science'
+degree: 'Bachelor of Science'
 startDate: 'Aug 2013'
 endDate: 'Jun 2018'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Bachelor of Science in Integrative Biology. Collaborated in research projects with Dr. Elvia Melendez-Ackerman studying bat pollinators and their spatial range in urban areas, with Dr. Miguel Acevedo studying the spatial distribution of malaria and its implications on disease dynamic modeling, and with Dr. Carlos Corrada exploring data augmentation methods with small datasets to apply Deep Learning methods to bioacoustics.

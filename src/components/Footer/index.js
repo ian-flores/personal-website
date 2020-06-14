@@ -8,18 +8,18 @@ const Footer = () => (
   <Styled.Footer>
     <Container>
       <Styled.Links>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://github.com/ian-flores" rel="noreferrer noopener" target="_blank">
           GitHub
         </Styled.Link>
         <Styled.Link
-          href="https://github.com/SaimirKapaj/gatsby-markdown-personal-website"
+          href="https://twitter.com/iflores_siaca"
           rel="noreferrer noopener"
           target="_blank"
         >
           Twitter
         </Styled.Link>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
-          Behance
+        <Styled.Link href="https://linkedin.com/in/ian-flores-siaca" rel="noreferrer noopener" target="_blank">
+          LinkedIn
         </Styled.Link>
       </Styled.Links>
     </Container>

@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Facebook'
-position: 'Frontend Developer'
-startDate: 'May 2013'
-endDate: 'Jun 2015'
+company: National Ecological Observatory Network
+position: 'Eco-Informatics Intern'
+startDate: 'May 2016'
+endDate: 'July 2016'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I developed an open source application to visualize the spatial distribution and temporal patterns of animals in the continental United States. I also researched the use of scientific visualization techniques to make data insights more accessible to non-scientific users.

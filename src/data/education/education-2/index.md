@@ -2,8 +2,8 @@
 category: 'education'
 university: 'University of British Columbia'
 degree: 'Master of Data Science'
-startDate: 'Sept 2018'
+startDate: 'Sep 2018'
 endDate: 'Jun 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborist.
+Master of Data Science. Courses focused on Inferential Statistics, Machine Learning, Bayesian Statistics, Natural Language Processing, Ethics, Security, Software Development and Databases. Collaborated with Dr. Greg Wilson and RStudio as part of my final project applying graph embeddings to understand which workflows users follow on the GitHub platform when versioning their code. Awarded MDS International Scholarship in 2018.

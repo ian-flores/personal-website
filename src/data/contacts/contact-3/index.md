@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Email'
+title: 'Gmail'
 icon: 'paper-plane'
-content: 'greatgatsby@gmail.com'
+content: 'iflores.siaca@gmail.com'
 ---

@@ -1,6 +1,8 @@
 ---
 category: 'services'
-title: 'Graphic Design'
-icon: 'draw-polygon'
+title: 'Data Science Education'
+icon: 'bullhorn'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
 ---
+
+
