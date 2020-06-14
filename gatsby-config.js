@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `Ian Flores Siaca`,
+    description: `Data Scientist, Data Science Educator, DevOps Consultant`,
+    author: `Ian Flores Siaca`
   },
   plugins: [
     `gatsby-plugin-typescript`,
