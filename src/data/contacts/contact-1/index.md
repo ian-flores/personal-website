@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Proton Mail'
+title: 'Hey'
 icon: 'lock'
-content: 'iflores.siaca@pm.me'
+content: 'iflores.siaca@hey.com'
 ---
