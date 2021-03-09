@@ -13,7 +13,7 @@ const mainNavItems = [
   },
   {
     title: 'Blog',
-    slug: 'https://iflores-siaca.medium.com'
+    slug: '/blog/'
   },
   {
     title: 'Contact Me',
